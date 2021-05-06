@@ -57,7 +57,7 @@ filelock==3.0.4
 Flask==1.0.1
 Flask-Caching==1.4.0
 Flask-Compress==1.4.0
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 foil==0.2.7
 gast==0.2.2
 gevent==1.3.0
